@@ -1,6 +1,4 @@
-<img src="https://c8.alamy.com/comp/2J4955T/html-computer-programming-coding-language-website-developing-technology-background-mixed-media-banner-2J4955T.jpg" alt="Banner Image" style="width:100%;">
 <h3 align="center" padding-top:"30px">A passionate frontend developer from India</h3>
-<img src="https://t4.ftcdn.net/jpg/01/35/92/85/240_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="Image">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasharyanofficial7&label=Profile%20views&color=0e75b6&style=flat" alt="akasharyanofficial7" /> </p>
